@@ -1,0 +1,17 @@
+h1{
+	margin-top: 5px;
+	text-align: center;
+	line-height: 90px;
+	color: white;
+	font-size: 30px;
+	background: skyblue;
+	float: left;
+	margin-right:10px ;
+	width: 250px;
+	height: 830px;
+}
+span{
+	padding-left:8px ;
+	padding-right: 30px;
+
+}
